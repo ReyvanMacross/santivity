@@ -5,7 +5,7 @@ const Blog = () => {
     <div id='blog' className=" bg-gray-100 py-7">
       <div className="container mx-auto px-4">
         <h1 className="text-4xl font-bold mb-4 text-center">Blog Title</h1>
-        <p className="text-lg mb-8 text-center">Blog description goes here.</p>
+        <p className="text-lg mb-8 text-center">aduh kebelet EEQQQ EUHQQQQQQ</p>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 gap-4 max-w-full mx-auto">
           {/* Card 1 (Left on small screens) */}

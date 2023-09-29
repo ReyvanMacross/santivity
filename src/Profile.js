@@ -2,7 +2,7 @@ import React from "react";
 
 function Banner() {
   const bannerImageStyle = {
-    backgroundImage: `url("https://i.pinimg.com/564x/ca/5f/50/ca5f50d5103760577e3f2f25b6a95aba.jpg")`,
+    backgroundImage: `url("https://www.talkesport.com/wp-content/uploads/technology-esports.jpg")`,
     backgroundSize: "cover",
     backgroundPosition: "center",
     backgroundRepeat: "no-repeat",
@@ -22,7 +22,7 @@ function Banner() {
           Santivity Company
         </h1>
         <p className="text-lg md:text-xl lg:text-2xl">
-          Discover amazing content and services.
+          Create a whole inspiration
         </p>
       </div>
     </div>

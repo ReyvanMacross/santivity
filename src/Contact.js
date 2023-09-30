@@ -5,7 +5,7 @@ const Contact = () => {
     <div className="bg-gray-100 py-4">
       <div className="container mx-auto px-4">
       <h1 className="text-4xl font-bold mb-7 text-center">Contact Us</h1>
-      <p className="text-lg mb-8 text-center">This is a blog profile of the developers at this company</p>
+      <p className="text-lg mb-8 text-center">If you have suggestions and contacts, you can contact them below</p>
         <div className="flex flex-col md:flex-row space-y-4 md:space-x-4">
           {/* Google Form */}
           <div className="w-full md:w-1/2">

@@ -44,7 +44,7 @@ const Blog = () => {
             <h2 className="text-xl font-semibold mb-2 text-center">Rievan Rivaldy Nur Triana</h2>
             {/* Profile Description */}
             <h4 className="text-lg font-bold mb-2 text-center">Front End & Sound/Video Produce</h4>
-            <p className="text-gray-700 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer interdum, dui ut gravida dignissim, dolor elit finibus augue, ut imperdiet sem orci et mauris. Etiam vitae maximus nisi, ut euismod augue. Mauris eget mauris eu sem pellentesque pellentesque. Fusce et nulla nisl. Maecenas pulvinar sem eget euismod venenatis. Nulla ultricies diam non tellus cursus fermentum. Pellentesque ullamcorper urna eget augue tincidunt mollis.</p>
+            <p className="text-gray-700 text-center">Hey, I'm Rievan Rivaldy Nur Triana, I study at SMK Negeri 4 Bandung and I'm in grade 12 RPL 2, I have a hobby of creating videos and websites. I hope to develop in the IT world, especially in the front end field. My dream is to become a Google employee in the front end or Information Technology sector.</p>
             {/* LinkedIn Button */}
             <a
               href="https://github.com/ReyvanMacross"

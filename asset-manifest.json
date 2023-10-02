@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/website-test-before-explode/static/css/main.d27e95ab.css",
-    "main.js": "/website-test-before-explode/static/js/main.1bfa0450.js",
-    "static/js/787.57add240.chunk.js": "/website-test-before-explode/static/js/787.57add240.chunk.js",
-    "index.html": "/website-test-before-explode/index.html",
-    "main.d27e95ab.css.map": "/website-test-before-explode/static/css/main.d27e95ab.css.map",
-    "main.1bfa0450.js.map": "/website-test-before-explode/static/js/main.1bfa0450.js.map",
-    "787.57add240.chunk.js.map": "/website-test-before-explode/static/js/787.57add240.chunk.js.map"
+    "main.css": "/santivity/static/css/main.d27e95ab.css",
+    "main.js": "/santivity/static/js/main.b4ae29a8.js",
+    "static/js/787.57add240.chunk.js": "/santivity/static/js/787.57add240.chunk.js",
+    "index.html": "/santivity/index.html",
+    "main.d27e95ab.css.map": "/santivity/static/css/main.d27e95ab.css.map",
+    "main.b4ae29a8.js.map": "/santivity/static/js/main.b4ae29a8.js.map",
+    "787.57add240.chunk.js.map": "/santivity/static/js/787.57add240.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d27e95ab.css",
-    "static/js/main.1bfa0450.js"
+    "static/js/main.b4ae29a8.js"
   ]
 }

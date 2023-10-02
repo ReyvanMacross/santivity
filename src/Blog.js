@@ -20,10 +20,10 @@ const Blog = () => {
             <h2 className="text-xl font-semibold mb-2 text-center">Anugrah Muhammad Araffah</h2>
             <h4 className="text-lg font-bold mb-2 text-center">FullStack & Game Developer</h4>
             {/* Profile Description */}
-            <p className="text-gray-700 text-center mb-1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer interdum, dui ut gravida dignissim, dolor elit finibus augue, ut imperdiet sem orci et mauris. Etiam vitae maximus nisi, ut euismod augue. Mauris eget mauris eu sem pellentesque pellentesque. Fusce et nulla nisl. Maecenas pulvinar sem eget euismod venenatis. Nulla ultricies diam non tellus cursus fermentum. Pellentesque ullamcorper urna eget augue tincidunt mollis.</p>
+            <p className="text-gray-700 text-center mb-1">Hi, I'm Anugrah Muhammad Arafah, I study at SMK Negeri 4 Bandung and I'm in grade 12 RPl 2, I have a hobby of coding and drawing, my hope is that I can create a machine learning masterpiece. My dream is to become an AI Engineer.</p>
             {/* LinkedIn Button */}
             <a
-              href="https://www.linkedin.com/in/person1"
+              href="https://github.com/Arsha8Anuga"
               target="_blank"
               rel="noopener noreferrer"
               className="block text-blue-500 hover:underline mt-2 text-center"
@@ -68,10 +68,10 @@ const Blog = () => {
             <h2 className="text-xl font-semibold mb-2 text-center">Riordan Muhammad Al Kausar</h2>
             {/* Profile Description */}
             <h4 className="text-lg font-bold mb-2 text-center">UI/UX & Designer Game</h4>
-            <p className="text-gray-700 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer interdum, dui ut gravida dignissim, dolor elit finibus augue, ut imperdiet sem orci et mauris. Etiam vitae maximus nisi, ut euismod augue. Mauris eget mauris eu sem pellentesque pellentesque. Fusce et nulla nisl. Maecenas pulvinar sem eget euismod venenatis. Nulla ultricies diam non tellus cursus fermentum. Pellentesque ullamcorper urna eget augue tincidunt mollis.</p>
+            <p className="text-gray-700 text-center">Hi, I'm Anugrah Muhammad Arafah, I study at SMK Negeri 4 Bandung and I'm in grade 12 RPl 2, I have a hobby of watching, playing games, & drawing. My hope is that I can become a game developer, little by little I'm starting to learn and am interested too with digital art, especially pixel art. My dream is to become an indie game developer.</p>
             {/* LinkedIn Button */}
             <a
-              href="https://www.linkedin.com/in/person3"
+              href="https://github.com/Aliorio"
               target="_blank"
               rel="noopener noreferrer"
               className="block text-blue-500 hover:underline mt-2 text-center"

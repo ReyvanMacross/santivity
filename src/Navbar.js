@@ -74,7 +74,7 @@ export default function NavBar() {
                                 <a href="#blog">About US</a>
                             </li>
                             <li className="text-black-600 hover:text-red-600">
-                                <b><a href="#">Download Game</a></b>
+                                <b><a target="_blank" href="https://www.mediafire.com/file/8oj1qn48v6jkxp8/Pre-Alpha_RAR_PROJECT-1_0_0-windows.exe/file">Game Play</a></b>
                             </li>
                         </ul>
                     </div>

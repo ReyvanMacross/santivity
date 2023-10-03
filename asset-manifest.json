@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/santivity/static/css/main.d27e95ab.css",
-    "main.js": "/santivity/static/js/main.b4ae29a8.js",
+    "main.css": "/santivity/static/css/main.7c585749.css",
+    "main.js": "/santivity/static/js/main.bbad116b.js",
     "static/js/787.57add240.chunk.js": "/santivity/static/js/787.57add240.chunk.js",
     "index.html": "/santivity/index.html",
-    "main.d27e95ab.css.map": "/santivity/static/css/main.d27e95ab.css.map",
-    "main.b4ae29a8.js.map": "/santivity/static/js/main.b4ae29a8.js.map",
+    "main.7c585749.css.map": "/santivity/static/css/main.7c585749.css.map",
+    "main.bbad116b.js.map": "/santivity/static/js/main.bbad116b.js.map",
     "787.57add240.chunk.js.map": "/santivity/static/js/787.57add240.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d27e95ab.css",
-    "static/js/main.b4ae29a8.js"
+    "static/css/main.7c585749.css",
+    "static/js/main.bbad116b.js"
   ]
 }

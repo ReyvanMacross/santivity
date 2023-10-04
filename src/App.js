@@ -21,7 +21,6 @@ function App() {
       <Navbar /> 
       <Profile />
       <AboutUs/>
-      <VideoComponent />
       <Blog />
       <Contact />
       <Footer />

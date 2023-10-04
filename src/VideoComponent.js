@@ -9,11 +9,11 @@ const VideoComponent = () => {
         <p className="text-lg text-center mb-8">This is our company video and some projects</p>
         <div className="flex justify-center">
           <div className="w-full md:w-2/3 lg:w-1/2">
-            <h2 className="text-xl font-semibold mb-3 text-center">Company Video</h2>
+            <h2 className="text-xl font-semibold mb-3 text-center">Intruduction </h2>
             <div className="relative" style={{ paddingBottom: "56.25%" }}>
               <iframe
-                className="absolute top-0 left-0 w-full h-full"
-                src="https://www.youtube.com/embed/qQtPAggFMt8"
+                className="absolute  w-full h-full"
+                src="https://media.istockphoto.com/id/1190940132/vector/stay-tuned-retro-television-error-screen.jpg?s=612x612&w=0&k=20&c=R5z6wUJ8Z6qxHdxn0i-74KctNrq6r3UQLr1Vj68IV7M="
                 title="YouTube Video 1"
                 frameBorder="0"
                 allowFullScreen

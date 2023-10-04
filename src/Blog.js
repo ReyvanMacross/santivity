@@ -65,10 +65,10 @@ const Blog = () => {
               className="w-24 h-24 rounded-full mx-auto mb-4 object-fill"
             />
             {/* Profile Name */}
-            <h2 className="text-xl font-semibold mb-2 text-center">Riordan Muhammad Al Kausar</h2>
+            <h2 className="text-xl font-semibold mb-2 text-center">Riordan Muhammad Al Kautsar</h2>
             {/* Profile Description */}
             <h4 className="text-lg font-bold mb-2 text-center">UI/UX & Designer Game</h4>
-            <p className="text-gray-700 text-center">Hi, I'm Anugrah Muhammad Arafah, I study at SMK Negeri 4 Bandung and I'm in grade 12 RPl 2, I have a hobby of watching, playing games, & drawing. My hope is that I can become a game developer, little by little I'm starting to learn and am interested too with digital art, especially pixel art. My dream is to become an indie game developer.</p>
+            <p className="text-gray-700 text-center">Hi, I'm Riordan Muhammad Al Kautsar, I study at SMK Negeri 4 Bandung and I'm in grade 12 RPl 2, I have a hobby of watching, playing games, & drawing. My hope is that I can become a game developer, little by little I'm starting to learn and am interested too with digital art, especially pixel art. My dream is to become an indie game developer.</p>
             {/* LinkedIn Button */}
             <a
               href="https://github.com/Aliorio"

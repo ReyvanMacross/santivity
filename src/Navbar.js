@@ -64,15 +64,13 @@ export default function NavBar() {
                         <ul className="items-center justify-center space-y-8 md:flex md:space-x-6 md:space-y-0">
                             <li className="text-black-600 hover:text-blue-600">
                                 <a href="#about">About </a>
+                            
                             </li>
                             <li className="text-black-600 hover:text-blue-600">
-                                <a href="#video">Video</a>
-                            </li>
-                            <li className="text-black-600 hover:text-blue-600">
-                                <a href="#blog">About US</a>
+                                <a href="#blog">About Us</a>
                             </li>
                             <li className="text-black-600 hover:text-red-600">
-                                <b><a target="_blank" href="https://www.mediafire.com/file/8oj1qn48v6jkxp8/Pre-Alpha_RAR_PROJECT-1_0_0-windows.exe/file">Game Play</a></b>
+                                <b><a target="_blank" href="https://www.mediafire.com/file/o4bwndr1zbharn0/Pre-Alpha_RAR_PROJECT-1_1_0_.exe/file">Game Play</a></b>
                             </li>
                         </ul>
                     </div>

@@ -28,31 +28,31 @@ const Contact = () => {
               <h2 className="text-2xl font-bold mb-4 py-2">Connect with us</h2>
               <div className="flex justify-center space-x-4 items-center">
                 <a
-                  href="https://www.instagram.com/your_instagram"
+                  href="https://t.me/Ejaktositocuzstayafoolputosbasta"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   <img
-                    src="https://cdns.iconmonstr.com/wp-content/releases/preview/2016/240/iconmonstr-instagram-14.png"  
+                    src="https://i.imgur.com/HCkRZCf.png"  
                     alt="Instagram"
                     className="w-8 h-8"
                   />
-                  <span className="ml-2">Instagram</span>
+                  <span>Telegram</span>
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/your_linkedin"
+                  href="#"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   <img
-                    src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-linkedin-2.png" 
+                    src="https://i.imgur.com/Pk7shbX.png" 
                     alt="LinkedIn"
                     className="w-8 h-8"
                   />
-                  <span className="ml-2">LinkedIn</span>
+                  <span className="ml-2">Youtube</span>
                 </a>
                 <a
-                  href="https://github.com/your_github"
+                  href="https://github.com/ReyvanMacross/santivity"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
